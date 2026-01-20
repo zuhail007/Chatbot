@@ -1,0 +1,9 @@
+google-generativeai
+elevenlabs
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-classic
+gradio
+requests
